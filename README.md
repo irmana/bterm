@@ -3,7 +3,7 @@
 [![AbstruseCI](https://abstruse.bleenco.io/badge/2)](https://abstruse.bleenco.io/repo/2)
 
 ## Overview
-Fully customisable cross-platform terminal that works and feels the same way everywhere: MacOS, Linux and Windows.
+Fully customizable cross-platform terminal that works and feels the same way everywhere: MacOS, Linux and Windows.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1796022/28711498-0a70122a-7388-11e7-8ae4-c43b5cbf517a.png">
